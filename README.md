@@ -4,7 +4,7 @@ This repository contains the design documentation and codebase for the Embedded 
 
 ![ORI2023e](images/car.jpg "ORI2023e")
 
-![Low Voltage Electronics Enclosure Assembly](images/lvenc.jpg "Low Voltage Electronics Enclosure Assembly")
+![ORI2023e](images/lvenc.jpg "Low Voltage Electronics Enclosure Assembly")
 
 ## ECU Overview
 
