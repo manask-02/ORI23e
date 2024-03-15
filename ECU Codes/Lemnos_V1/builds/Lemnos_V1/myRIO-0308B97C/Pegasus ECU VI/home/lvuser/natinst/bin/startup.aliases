@@ -1,0 +1,8 @@
+[My Computer]
+My Computer="10.0.26.4"
+
+[myRIO-0308B97C]
+myRIO-0308B97C="localhost"
+
+[NI-myRIO-1900-0308F529]
+NI-myRIO-1900-0308F529="172.22.11.2"
