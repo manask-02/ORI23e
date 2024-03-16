@@ -2,10 +2,10 @@
 
 This repository contains the design documentation and codebase for the Embedded Systems of ORI23e.
 
-<p align="center" width="100%">
+
 ![ORI2023e](images/car.jpg "ORI2023e")
 **ORI2023e**
-</p>
+
 
 ![ORI2023e](images/lvenc.jpg "Low Voltage Electronics Enclosure Assembly")
 **Low Voltage Electronics Enclosure Assembly**
