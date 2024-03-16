@@ -116,6 +116,7 @@ The BMS Logic Flow Diagram illustrates the sequence of operations performed by t
 A battery model was developed using Simulink to estimate cell performance and assist in State of Charge (SoC) estimation. SoC estimation algorithms, including Kalman Filter and Luenberger Observer, were evaluated for implementation.
 
 ![Simulink Simulations for Model and SoC Estimation](images/bmssoc.jpg "[Simulink Simulations for Model and SoC Estimation")
+
 **Simulink: Battery Model and SoC Estimation**
 
 For detailed documentation and codebase, refer to the corresponding directories in this repository.
