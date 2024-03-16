@@ -1,6 +1,6 @@
 # ORI23e
 
-This repository contains the design documentation and codebase for the Embedded Systems of ORI23e.
+This repository contains the design documentation and codebase for the Embedded Systems of ORI23e, the Orion Racing India's Formula Student EV prototpe for the year 2022-23. 
 
 
 ![ORI2023e](images/car.jpg "ORI2023e")
